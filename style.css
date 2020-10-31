@@ -44,7 +44,7 @@
 }
 .bg
 {
-    background: linear-gradient(to right,red,blue);
+    background: linear-gradient(to right,blue,cyan);
     height:100%;
 }
 p{
