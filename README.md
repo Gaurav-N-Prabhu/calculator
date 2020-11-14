@@ -1,3 +1,3 @@
 # calculator
 
-A simple calculator program using html,css,js.
+A simple calculator program using HTML, CSS, JS.
