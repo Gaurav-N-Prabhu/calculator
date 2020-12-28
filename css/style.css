@@ -6,7 +6,7 @@
 @font-face
 {
 	font-family: sevenSegment;
-	src: url(./fonts/seven-segment.ttf);
+	src: url(../fonts/seven-segment.ttf);
 }
 
 .button
